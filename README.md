@@ -32,13 +32,18 @@ Vanilla JavaScript: DOM manipulation, event listeners, and Intersection Observer
 
 📂 Folder Structure
 
+
 editkaro-portfolio/
 │
-├── index.html          # Main HTML document containing the structure
-├── style.css           # Styling, animations, and responsive queries
-├── script.js           # Logic for animations, filtering, and video control
+├── index.html     
+# Main HTML document containing the structure
+├── style.css    
+# Styling, animations, and responsive queries
+├── script.js      
+# Logic for animations, filtering, and video control
 │
-└── videos/             # Directory containing all video assets
+└── videos/      
+# Directory containing all video assets
     ├── Editkaro.mp4    # Hero section background video
     ├── shortform.mp4  # Portfolio asset
     ├── longform.mp4   # Portfolio asset
