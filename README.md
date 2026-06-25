@@ -1,6 +1,5 @@
 # Editkaro.in-Portfolio Website
 An Interactive and Dynamic portfolio webpage for a real-world client, Editkaro.in a Social media marketing and video editing agency.
-Editkaro.in is a front-end web application designed to showcase professional video editing services[cite: 3]. It features a modern dark-themed UI[cite: 1], dynamic content filtering[cite: 2], and engaging animations[cite: 2] to create an interactive user experience.
 
 
 **[Live video:view the website Here](https://randhipoojitha.github.io/editkaro-portfolio/)**
@@ -9,17 +8,30 @@ A dynamic,fully responsive portfolio website for a video editing and social medi
 Editkaro.in is a front-end web application designed to showcase professional video editing services[cite: 3]. It features a modern dark-themed UI[cite: 1], dynamic content filtering[cite: 2], and engaging animations[cite: 2] to create an interactive user experience.
 ✨ Features
 Modern UI/UX: The layout features a dark theme with a glassmorphism sticky header using backdrop-filter[cite: 1].
-Dynamic Hero Section: The landing area features a background video overlay[cite: 1, 3]. It also includes a custom automated typing text effect[cite: 2].
+
+Dynamic Hero Section: The landing area features a background video overlay[cite: 1, 3]. 
+It also includes a custom automated typing text effect[cite: 2].
 Interactive Portfolio: Projects can be sorted using category filter buttons like Short Form, Gaming, and Anime[cite: 2, 3].
-Video Hover Playback: Portfolio video cards automatically play on mouse hover and pause on mouse leave[cite: 2]. Users can also click videos to toggle native controls[cite: 2].
+
+Video Hover Playback: Portfolio video cards automatically play on mouse hover and pause on mouse leave[cite: 2].
+Users can also click videos to toggle native controls[cite: 2].
 Scroll Animations: The site uses an IntersectionObserver to reveal sections smoothly as the user scrolls down the page[cite: 2].
+
 Animated Counters: Number counters in the stats section animate smoothly from zero to their target values[cite: 2].
+
 Responsive Design: The layout utilizes CSS Grid and flexbox to ensure seamless viewing across mobile and desktop devices[cite: 1].
+
 🛠️ Tech Stack
+
+
 HTML5: Semantic structure and media integration[cite: 3].
+
 CSS3: Custom styling, smooth scrolling, and CSS Grid[cite: 1].
+
 Vanilla JavaScript: DOM manipulation, event listeners, and Intersection Observers[cite: 2].
+
 📂 Folder Structure
+
 editkaro-portfolio/
 │
 ├── index.html          # Main HTML document containing the structure
